@@ -277,4 +277,4 @@ ${prefix}queue ⇏ لمعرفة قآئمة التشغيل
  
  
 client.login(process.env.BOT_TOKEN);
-client.on('ready',async () => { client.channels.find(ch => ch.id === "اي دي الروم الصوتية" && ch.type === 'voice').join(); });
+client.on('ready',async () => { client.channels.find(ch => ch.id === "512730835858751488" && ch.type === 'voice').join(); });
